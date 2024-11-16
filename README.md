@@ -24,15 +24,18 @@ Step 6: Type any url, click navigate and that will take you to the expected url.
 
 Step 7: Save and run the application.
 
+
 ## PROGRAM:
 ```
 /*
 Program to print the text “Implicitintent”.
-Developed by:YOGESH.V.S
-Registeration Number :212222040185
+Developed by: YOGESH.V.S
+Registeration Number :  212222040185
 */
 ```
-MainActivity.java:
+
+## MainActivity.java:
+
 ```
 package com.example.Exp_3;
 
@@ -66,7 +69,9 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-activitymain.xml:
+
+## activitymain.xml:
+
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
@@ -93,12 +98,13 @@ activitymain.xml:
 </RelativeLayout>
 ```
 
-## OUTPUT:
-![367525141-526e77b6-79fc-4f25-86ae-7ca4ee37ec65](https://github.com/user-attachments/assets/39b2869a-58fd-489d-ae75-dccfb32502b4)
+## OUTPUT
 
-![367525149-f25e7a82-e12b-4f13-a3e2-f92730c0ce88](https://github.com/user-attachments/assets/8a1a2cde-70b7-4026-9a7c-c9144b49423c)
+![MAD EX-3(1)](https://github.com/user-attachments/assets/526e77b6-79fc-4f25-86ae-7ca4ee37ec65)
 
-![367525162-ad3f0e7c-9dcc-49a8-b4be-af4dc391885f](https://github.com/user-attachments/assets/10e2d096-912e-4134-bb11-d21e52c18f21)
+![MAD EXP-3(2)](https://github.com/user-attachments/assets/f25e7a82-e12b-4f13-a3e2-f92730c0ce88)
+
+![MAD EX-3](https://github.com/user-attachments/assets/ad3f0e7c-9dcc-49a8-b4be-af4dc391885f)
 
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the web page using Android Studio was developed and executed successfully.
